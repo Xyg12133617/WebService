@@ -1,0 +1,7 @@
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+G:\WorkSpaceForGit\教程\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
